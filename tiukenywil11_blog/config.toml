@@ -1,0 +1,4 @@
+baseURL = 'https://tiukenywil11.github.io/'
+languageCode = 'en-us'
+title = 'Kenywil Tiu Blog'
+theme="hugo-PaperMod"
