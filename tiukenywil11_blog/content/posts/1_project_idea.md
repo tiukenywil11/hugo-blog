@@ -1,7 +1,6 @@
 ---
-title: "1_project_idea"
+title: "Project Idea (Decentralized Portfolio)"
 date: 2022-04-28T13:14:17+08:00
-draft: true
 ---
 # Introduction
   
