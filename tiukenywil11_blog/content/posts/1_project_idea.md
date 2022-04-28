@@ -26,5 +26,5 @@ date: 2022-04-28T13:14:17+08:00
 - Server type: IPFS 
 - Domain Name: Unstoppable Domain
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I alrady have a slight idea on how these things work together, but I would like to experiment and dive deep into these new technologies on a practical aspect. So I will be documenting my progress in this blog, and keeping a copy of the source code in my Github repository [here](https://github.com/tiukenywil11/decentralized-portfolio).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I already have a slight idea on how these things work together, but I would like to experiment and dive deep into these new technologies on a practical aspect. So I will be documenting my progress in this blog, and keeping a copy of the source code in my Github repository [here](https://github.com/tiukenywil11/decentralized-portfolio).
 
