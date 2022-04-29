@@ -1,6 +1,9 @@
 ---
 title: "Project Idea (Decentralized Portfolio)"
 date: 2022-04-28T13:14:17+08:00
+tags: ["kenywil tiu", "blockchain", "smart contract", "web3", "full stack", "reactjs", "terra luna", "rust", "ipfs", "unstoppable domain"]
+description: "Project idea to create a portfolio with decentrailized web3 technologies"
+author: "Kenywil Tiu"
 ---
 # Introduction
   

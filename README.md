@@ -1,7 +1,6 @@
 # Commands
 
 1. Test server
-
 ```bash
 hugo server
 ```

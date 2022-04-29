@@ -1,6 +1,9 @@
 ---
 title: "Introduction"
 date: 2022-04-26T21:33:19+08:00
+tags: ["kenywil tiu", "blockchain", "smart contract", "web3", "full stack"]
+description: "Brief introduction on Kenywil Tiu, full stack developer, and a blockchain enthusiast"
+author: "Kenywil Tiu"
 ---
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm Kenywil Tiu, an aspiring blockchain developer with interest in learning innovative technologies. The intention of this blog is to share what I've been learning, and will be learning. This will also act as a journal for proof of concept mini projects, or full blown projects that I will be developing.
