@@ -7,7 +7,7 @@ author: "Kenywil Tiu"
 ---
 # Introduction
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have decided to start with the front-end and follow a Youtube tutorial from freebashCamp called "React Project Tutorial – Build a Portfolio Website w/ Advanced Animations", the link can be found [here](https://youtu.be/bmpI252DmiI). I will customize the graphics later on to fit my preference.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have decided to start with the front-end and follow a Youtube tutorial from freeCodeCamp called "React Project Tutorial – Build a Portfolio Website w/ Advanced Animations", the link can be found [here](https://youtu.be/bmpI252DmiI). I will customize the graphics later on to fit my preference.  
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The reason for this is that I prefer beginning with a template, to speed up my development time. It will take a long time to create a front-end UI and UX design. For me the quote "make it work, then make it good" applies here.  
 
