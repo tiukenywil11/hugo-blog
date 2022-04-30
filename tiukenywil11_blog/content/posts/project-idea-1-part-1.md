@@ -2,7 +2,7 @@
 title: "Project Idea 1 (Decentralized Portfolio): Part 1"
 date: 2022-04-29T16:28:41+08:00
 tags: ["project idea 1", "decentralized portfolio", "full stack", "reactjs", "javascript"]
-description: "Project idea to create a portfolio with decentrailized web3 technologies"
+description: "Part 1: Project idea to create a portfolio with decentrailized web3 technologies"
 author: "Kenywil Tiu"
 ---
 # Introduction
@@ -26,41 +26,41 @@ cd tiukenywil11_portfolio
 ```
 
 3. Install the following dependencies.
-- emailjs: Library to implement the contact form.
+- **emailjs**: Library to implement the contact form.
 ```bash
 npm i @emailjs/browser
 ```
-- fortawesome: Library to get free icons.
+- **fortawesome**: Library to get free icons.
 ```bash
 npm i @fortawesome/free-brands-svg-icons
 npm i @fortawesome/free-solid-svg-icons
 npm i @fortawesome/react-fontawesome
 ```
-- animate.css: CSS library to animate objects and fonts
+- **animate.css**: CSS library to animate objects and fonts
 ```bash
 npm i animate.css
 ```
-- gsap-trial: For advanced animations
+- **gsap-trial**: For advanced animations
 ```bash
 npm i gsap-trial
 ```
-- loaders.css: Package for loaders
+- **loaders.css**: Package for loaders
 ```bash
 npm i loaders.css
 ```
-- react-leaflet: Library for maps
+- **react-leaflet**: Library for maps
 ```bash
 npm i react-leaflet
 ```
-- react-loaders: Loaders with react integrations
+- **react-loaders**: Loaders with react integrations
 ```bash
 npm i react-loaders
 ```
-- react-router-dom: Standard ReactJS package for routing
+- **react-router-dom**: Standard ReactJS package for routing
 ```bash
 npm i react-router-dom
 ```
-- sass: A CSS extension language.
+- **sass**: A CSS extension language.
 ```bash
 npm i sass
 ```
@@ -72,3 +72,7 @@ npm start
 
 # Outro
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the progress I have made today, the changes can be found in my GitHub repository [here](https://github.com/tiukenywil11/decentralized-portfolio/commit/12fcd5293687b3bb344491e5b2af8329350c2ef1). 
+
+**Read More:**  
+Previous: [Decentralized Portfolio: Introduction]({{< ref "project-idea-1-introduction.md" >}})  
+Next: [Decentralized Portfolio: Part 2]({{< ref "project-idea-1-part-2.md" >}})

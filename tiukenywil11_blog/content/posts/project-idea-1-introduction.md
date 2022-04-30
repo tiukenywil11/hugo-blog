@@ -1,8 +1,8 @@
 ---
-title: "Project Idea 1 (Decentralized Portfolio)"
+title: "Project Idea 1 (Decentralized Portfolio): Introduction"
 date: 2022-04-28T13:14:17+08:00
 tags: ["project idea 1", "decentralized portfolio", "blockchain", "smart contract", "web3", "full stack", "reactjs", "terra luna", "rust", "ipfs", "unstoppable domain"]
-description: "Project idea to create a portfolio with decentrailized web3 technologies"
+description: "Introduction: Project idea to create a portfolio with decentrailized web3 technologies"
 author: "Kenywil Tiu"
 ---
 # Introduction
@@ -29,5 +29,10 @@ author: "Kenywil Tiu"
 - Server type: IPFS 
 - Domain Name: Unstoppable Domain
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I already have a slight idea on how these things work together, but I would like to experiment and dive deep into these new technologies on a practical aspect. So I will be documenting my progress in this blog, and keeping a copy of the source code in my Github repository [here](https://github.com/tiukenywil11/decentralized-portfolio).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I already have a slight idea on how these things work together, but I would like to experiment and dive deep into these new technologies on a practical aspect. So I will be documenting my progress in this blog, and keeping a copy of the source code in my Github repository [here](https://github.com/tiukenywil11/decentralized-portfolio).  
+
+**Read More:**  
+Next: [Decentralized Portfolio: Part 1]({{< ref "project-idea-1-part-1.md" >}})
+
+
 
