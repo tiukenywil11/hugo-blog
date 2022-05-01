@@ -145,7 +145,7 @@ import './App.scss';
 </div>
 ```
 
-6. Test if ReactJS app working, and if the styles have taken effect.
+6. Test if ReactJS app is working, and if the styles have taken effect.
 ```bash
 npm start
 ```
@@ -155,4 +155,11 @@ npm start
 # Outro  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The progress I made today adds to the base boilerplate, the changes can be found in my GitHub repository [here](  https://github.com/tiukenywil11/decentralized-portfolio/commit/d255e1ca3497fe4232d2959a1cc28e1c0dc1c18f). 
   
-Previous: [Decentralized Portfolio: Part 1]({{< ref "project-idea-1-part-1.md" >}})
+**Read More:**   
+Previous:  
+[Decentralized Portfolio: Introduction]({{< ref "project-idea-1-introduction.md" >}})  
+[Decentralized Portfolio: Part 1]({{< ref "project-idea-1-part-1.md" >}})
+  
+Next:  
+[Decentralized Portfolio: Part 3]({{< ref "project-idea-1-part-3.md" >}})  
+  

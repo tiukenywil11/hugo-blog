@@ -74,5 +74,9 @@ npm start
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the progress I have made today, the changes can be found in my GitHub repository [here](https://github.com/tiukenywil11/decentralized-portfolio/commit/12fcd5293687b3bb344491e5b2af8329350c2ef1). 
 
 **Read More:**  
-Previous: [Decentralized Portfolio: Introduction]({{< ref "project-idea-1-introduction.md" >}})  
-Next: [Decentralized Portfolio: Part 2]({{< ref "project-idea-1-part-2.md" >}})
+Previous:  
+[Decentralized Portfolio: Introduction]({{< ref "project-idea-1-introduction.md" >}})  
+  
+Next:  
+[Decentralized Portfolio: Part 2]({{< ref "project-idea-1-part-2.md" >}})  
+[Decentralized Portfolio: Part 3]({{< ref "project-idea-1-part-3.md" >}})  

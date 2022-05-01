@@ -32,7 +32,8 @@ author: "Kenywil Tiu"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I already have a slight idea on how these things work together, but I would like to experiment and dive deep into these new technologies on a practical aspect. So I will be documenting my progress in this blog, and keeping a copy of the source code in my Github repository [here](https://github.com/tiukenywil11/decentralized-portfolio).  
 
 **Read More:**  
-Next: [Decentralized Portfolio: Part 1]({{< ref "project-idea-1-part-1.md" >}})
-
-
+Next:  
+[Decentralized Portfolio: Part 1]({{< ref "project-idea-1-part-1.md" >}})  
+[Decentralized Portfolio: Part 2]({{< ref "project-idea-1-part-2.md" >}})  
+[Decentralized Portfolio: Part 3]({{< ref "project-idea-1-part-3.md" >}})  
 
