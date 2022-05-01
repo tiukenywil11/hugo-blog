@@ -45,7 +45,7 @@ import { BrowserRouter } from 'react-router-dom';
 	<App />
 </React.StrictMode>
 ```
-- Replace it with thefollowing snippet to add routing function to components inside the 'BrowserRouter' tags.
+- Replace it with the following snippet to add routing function to components inside the 'BrowserRouter' tags.
 ```html
 <React.StrictMode>
 	<BrowserRouter>
