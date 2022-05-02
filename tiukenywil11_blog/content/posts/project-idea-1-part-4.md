@@ -15,7 +15,7 @@ For this day I decided to add the logo assets, and a 'Sidebar' component. I will
 ## Making logos
 1. Use [Online PhotoSoft](https://www.onlinephotosoft.com/).
 - Click on 'New Project'.
-![1_Photopea_1](/img/project-idea-1-part-4/1_Photopea_1.PNG)
+![1_Photopea_1](/img/project-idea-1-part-4/1_Photopea_1.png)
 - Change name to *'Logo'*
 - Choose the 'Screen' tab.
 - Pick the 'HD' template.
