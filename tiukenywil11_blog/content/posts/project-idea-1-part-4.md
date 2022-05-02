@@ -48,11 +48,11 @@ For this day I decided to add the logo assets, and a 'Sidebar' component. I will
 - Note: Reference for images can be found [here](https://github.com/bobangajicsm/react-portfolio-website/tree/master/src/assets/images). These assets are used on the original Youtube tutorial by freeCodeCamp I'm following.
 
 ## Creating a 'Sidebar' component
-3. Create the following directory *'tiukenywil11_portfolio/src/components/Sidebar'*.
-4. Create the following files inside *'tiukenywil11_portfolio/src/components/Sidebar'*.
+4. Create the following directory *'tiukenywil11_portfolio/src/components/Sidebar'*.
+5. Create the following files inside *'tiukenywil11_portfolio/src/components/Sidebar'*.
 	- index.js
 	- index.scss
-5. Append *'tiukenywil11_portfolio/src/components/Sidebar/index.js'*.
+6. Append *'tiukenywil11_portfolio/src/components/Sidebar/index.js'*.
 - Import 'Link' from 'react-router-dom'.
 ```javascript
 import { Link } from 'react-router-dom';
@@ -96,7 +96,7 @@ const Sidebar = () => {
 ```javascript
 export default Sidebar;
 ```  
-6. Test if ReactJS app is working, the screen would look similar to [Part 3]({{< ref "project-idea-1-part-3.md" >}}), because we have not imported the 'Sidebar' component to the 'Layout' component yet.
+7. Test if ReactJS app is working, the screen would look similar to [Part 3]({{< ref "project-idea-1-part-3.md" >}}), because we have not imported the 'Sidebar' component to the 'Layout' component yet.
 
 ```bash
 npm start
