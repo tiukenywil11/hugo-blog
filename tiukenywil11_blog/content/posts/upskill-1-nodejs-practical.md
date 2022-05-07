@@ -176,7 +176,7 @@ router.post("/", (req, res) => {
 router.put("/:id", (req, res) => {
 	try {
 		req.app.db.get("books").find({ id: req.params.id }).assign(req.body).write();		
-		res.send(req.app.db.get("books").find({ id:request.params.id }));
+		res.send(req.app.db.get("books").find({ id:req.params.id }));
 	} catch(error) {
 		return res.status(500).send(error);
 	}
