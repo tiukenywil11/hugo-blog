@@ -1,5 +1,5 @@
 ---
-title: "Upskill 1: Nodejs"
+title: "Upskill 1 (Nodejs): Research"
 date: 2022-05-06T23:10:39+08:00
 tags: ["upskill", "full stack", "nodejs", "javascript"]
 description: "Upskill 1: Research on backend Javascript framework NodeJS"
@@ -16,4 +16,8 @@ author: "Kenywil Tiu"
 - [NodeJS Official Document Research](https://github.com/tiukenywil11/tech-stack-learn/blob/main/nodejs/nodejs.md): [In Progress] Learning NodeJS by following the official documentation found here: "https://nodejs.dev/learn/introduction-to-nodejs"
   
 ## Additional Related Resources
-- [MERN Stack Demo](https://github.com/tiukenywil11/mern-stack-demo): https://github.com/tiukenywil11/mern-stack-demo
+- [MERN Stack Demo](https://github.com/tiukenywil11/mern-stack-demo): [Done] Developed a working "Goal Tracker" app by following "Learn The MERN Stack" by Traversy Media, and adding my own codes. Planning to containerize.  
+
+**Read More:**  
+[NodeJS: Practical]({{< ref "upskill-1-nodejs-practical.md" >}})  
+
