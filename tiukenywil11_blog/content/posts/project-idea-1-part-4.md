@@ -114,3 +114,4 @@ Previous:
   
 Next:  
 [Decentralized Portfolio: Part 5]({{< ref "project-idea-1-part-5.md" >}})  
+[Decentralized Portfolio: Part 6]({{< ref "project-idea-1-part-6.md" >}})  

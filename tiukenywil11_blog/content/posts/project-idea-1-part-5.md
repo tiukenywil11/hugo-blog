@@ -268,3 +268,5 @@ Previous:
 [Decentralized Portfolio: Part 2]({{< ref "project-idea-1-part-2.md" >}})  
 [Decentralized Portfolio: Part 3]({{< ref "project-idea-1-part-3.md" >}})  
 [Decentralized Portfolio: Part 4]({{< ref "project-idea-1-part-4.md" >}})  
+Next:  
+[Decentralized Portfolio: Part 6]({{< ref "project-idea-1-part-6.md" >}})  
