@@ -19,5 +19,5 @@ author: "Kenywil Tiu"
 - [MERN Stack Demo](https://github.com/tiukenywil11/mern-stack-demo): [Done] Developed a working "Goal Tracker" app by following "Learn The MERN Stack" by Traversy Media, and adding my own codes. Planning to containerize.  
 
 **Read More:**  
-[NodeJS: Practical]({{< ref "upskill-1-nodejs-practical.md" >}})  
+[NodeJS: Practical]({{< ref "upskill-1-nodejs-swagger-practical.md" >}})  
 
