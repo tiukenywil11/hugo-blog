@@ -1,13 +1,13 @@
 ---
-title: "Upskill 1 (Nodejs): Practical"
+title: "Upskill 1 (Nodejs + Swagger): Practical"
 date: 2022-05-07T11:41:55+08:00
 tags: ["upskill", "full stack", "nodejs", "expressjs", "swagger", "javascript", "github"]
-description: "Upskill 1: Practical research on backend Javascript framework NodeJS"
+description: "Upskill 1: Practical research on backend Javascript framework NodeJS with Swagger"
 author: "Kenywil Tiu"
 ---
 # Introduction
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have done some research on NodeJS, and some crash course practical developement. I personally think I learn better by coding step by step, so for this blog I'll follow and break down this Youtube Video called ["NodeJS Swagger API Documentation Tutorial Using Swagger JSDoc"](https://youtu.be/S8kmHtQeflo) By Maksim Ivanov.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have done some research on NodeJS with Swagger, and some crash course practical developement. I personally think I learn better by coding step by step, so for this blog I'll follow and break down this Youtube Video called ["NodeJS Swagger API Documentation Tutorial Using Swagger JSDoc"](https://youtu.be/S8kmHtQeflo) By Maksim Ivanov.
   
 # Steps
 
