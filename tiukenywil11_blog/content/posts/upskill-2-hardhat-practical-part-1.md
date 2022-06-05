@@ -8,11 +8,11 @@ author: "Kenywil Tiu"
 
 # Introduction
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I some practical experience with Solidity already, and was recommended by one of my colleague to try to supplement my knowledge with the Hardhat framework. I checked it out and would like to try it out and create a basic working smart contract. I will be following the official document of Hardhat found [here](https://hardhat.org/tutorial/).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have some practical experience with Solidity already, and was recommended by one of my colleague to try to supplement my knowledge with the Hardhat framework. I checked it out and would like to try it out and create a basic working smart contract. I will be following the official document of Hardhat found [here](https://hardhat.org/tutorial/).
     
 # Hardhat Concepts
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hardhat is composed of the following concepts.  
+Hardhat is composed of the following concepts.  
   
 - Tasks: There are commands that can be ran on the terminal, some are provided by Hardhat upon install (e.g. `npx hardhat compile`). To find out the list of tasks use the following command:
 ```bash
@@ -24,8 +24,8 @@ npx hardhat help [task]
 # Steps
 
 ## Prerequisite
-- NodeJS 12+
-- NPM (Should have been installed with NodeJS)
+- NodeJS 16.15.1
+- NPM 8.11.0(Should have been installed with NodeJS)
 
 ## Github Setup
 1. I have created a new repository on my Github account, it can be found [here](https://github.com/tiukenywil11/hardhat-demo).
@@ -90,5 +90,5 @@ git push
   
 **Read More:**  
 Next:  
-- To be updated.
+[Hard Hat Basics: Part 2]({{< ref "upskill-2-hardhat-practical-part-2" >}}) 
   
