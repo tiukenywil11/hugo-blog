@@ -1,5 +1,5 @@
 ---
-title: "Phweb3festival Hackathon Experience: Mentoring"
+title: "Ph Web3 Festival Hackathon Experience: Mentoring"
 date: 2022-11-18T10:12:03+08:00
 tags: ["hackathon", "philippines web3 festival", "blockchain", "smart contract", "web3",  "thirdweb", "web3 philippines", "ubx", "ygg", "xave finance"]
 description: "Mentoring experience in a web 3 hackathon event in the Philippines"
@@ -7,7 +7,7 @@ author: "Kenywil Tiu"
 ---
 # Introduction
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I haven't posted in a long time, because I was busy learning more about blockchain technology for my job. ButI decided to add a blog entry today, because I was fortunate enough to be able to participate in a web 3 hackathon event by [Philippines Web3 Festival](https://www.phweb3festival.com/) as a mentor. The details of the hackathon event can be found [here](https://www.phweb3festival.com/events.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I haven't posted in a long time, because I was busy learning more about blockchain technology for my job. But I decided to add a blog entry today, because I was fortunate enough to be able to participate in a web 3 hackathon event by [Philippines Web3 Festival](https://www.phweb3festival.com/) as a mentor. The details of the hackathon event can be found [here](https://www.phweb3festival.com/events.html)
   
 ![phweb3festival](/img/phweb3festival/phweb3festival_hackathon.jpg)
 
@@ -56,8 +56,7 @@ The hackathon projects should revolve around three categories:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In between mentoring the students, I had a great time mingling with co-mentors. I have learned about new technologies such as a web3 framework called `thirdweb`. I haven't explored the framework in-depth, but I plan on adding it to my web3 development arsenal. The value of this framework is supposed to make deploying smart contracts quicker for developers. In exchange I shared some of my knowledge for DevOps best practices, since I come from a DevOps background. The URL to the website can be found here: [ThirdWeb](https://thirdweb.com/)
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Another thing I learned was `digital signatures`, I find this to be a great way to replace usernames and passwords in the near future. I was aware of this concept, but I haven't tried implementing an off chain version for signing and verifying these. I will leave a link so I can come back to it in the future: [Digital signature sign and verify](https://cryptomarketpool.com/how-to-sign-verify-an-ethereum-message-off-chain/). 
-
-
+    
 ### Hackathon - Day 2
 
 #### Developed  
@@ -72,8 +71,15 @@ The hackathon projects should revolve around three categories:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I also got to interact and have a conversation with the CEO for `Adamant Mine` GameFi project. His group joined as a participant, and is pitchin a new type of crypto wallet with added features for socialization. Also, we got to discuss about the state of GameFi, and where it's going. These are fun discussions for me as I have been an avid GameFi enthusiat before I started working in the crypto industry. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I also got to interacti with co-mentors, and the CEO of `XAVE Finance`. We had an initial topic concerning hackathon project's security, my takeaway was some quick solutions using third party services such as (AWS HSM)[https://aws.amazon.com/cloudhsm/]. Also the term `vanity addresses` where a crypto wallet would spell out a word to your liking, kind of like a customized car license plate. Lastly some converstations here and there about the state of my current company, and the projects I handle in the commpany. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I also got to interacti with co-mentors, and the CEO of `XAVE Finance`. We had an initial topic concerning hackathon project's security, my takeaway was some quick solutions using third party services such as [AWS HSM](https://aws.amazon.com/cloudhsm/). Also the term `vanity addresses` where a crypto wallet would spell out a word to your liking, kind of like a customized car license plate. Lastly some converstations here and there about the state of my current company, and the projects I handle in the commpany. 
+  
   
 # Closing Remarks  
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall being part of an event revolving around the web3 space was a great experience. It was a tiring weekend, but I appreciate the opportunity I was given, and wish to learn more about the state of blockchain globally. Hopefully I will be able to join similar events in the near future. 
+  
+Here are some pics of the event posted on LinkedIn:  
+[Hackathon: Day 1 Pics](https://www.linkedin.com/posts/ubx-philippines_metaverse-activity-6997087757877604352-STMI)  
+[Hackathon: Day 2 Pics](https://www.linkedin.com/posts/ubx-philippines_metaverse-hackathon-web3-activity-6997480656574324736-B8ld)  
+[Hackathon Finalists](https://www.linkedin.com/posts/ubx-philippines_web3-hackathon-activity-6997882141971820544-qeX8)  
+[Hackathon Winners](https://www.linkedin.com/posts/ubx-philippines_web3-hackathon-activity-6998983445444014080-UNT1)
